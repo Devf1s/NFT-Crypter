@@ -1,7 +1,7 @@
 ____
 # NFT Crypter
 ____
-[Site](https://1kiritos1.github.io/NFT-Crypter/)
+[Site](https://devf1s.github.io/NFT-Crypter/)
 
 ### Used:
 * ***HTML***
